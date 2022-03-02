@@ -32,7 +32,7 @@ console.log("I'M MARY POPPINS, Y'ALL!");
 console.log("HAWK"+ "EYE");
 
 //7
-console.log("AYUSHA POKHAREL".length);
+console.log("AYUSHA".length + "POKHAREL".length);
 
 //8
 console.log("Avengers"[2]);
